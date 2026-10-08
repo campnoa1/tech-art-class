@@ -93,14 +93,3 @@ General usages are adjusting height and width of pot, adjusting plant sizes and 
     
     -Randomize Rotation: Randomize the rotation of each instance by small margins.
 
-
-**Reflection**
-
-What went well? -     
-I managed to get pretty much everything I wanted to be working, working. That would mostly be all the trouble shooting I had to do with the windows.
-
-What did I struggle with? -     
-I struggled with most of it. I eventually started getting it all down to some degree (the geonodes), but a lot was very confusing. I'm not versed in code much at all so the shift has been very hard. As for the textures, I ended up not giving myself enough time to work on them. To add onto that, I struggled with the UVs a LOT. I could not figure out how to do them well with all the other stuff that I tacked on.
-
-What could I do differently next time? -     
-I would definitely work on the textures, and I do plan to later after submitting. I would also try to figure out the UVs and see why I was having such a hard time.
