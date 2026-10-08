@@ -8,18 +8,31 @@ This tool is used to generate a flower pot house based on concept art from this 
 General usages are adjusting height and width of pot, adjusting plant sizes and numbers, adjusting windows in many ways.
 
 **More detailed list:**
-  "Pot Base" Collection > "Pot top half:"    
+
+  "Pot Base" Collection > "Pot top half:"   
+  
     -Height of top: Pulls top face of pot body up and down along with the topper.
+    
     -Scale of top: Scales top face along with everything on the topper.
+    
     -Window Collection: Allows for changing what windows are available to be chosen for instancing on body of pot from within a collection.
+    
     -Window Distance: The minimum distance between each instanced window.
+    
     -Window Density: Sheer number of windows instanced. (May not display the number desired, derived from Window Distance and Window Density Factor)
+    
     -Window Density Factor: Density of windows instanced.
+    
     -Window Seed: Changes seed of instances.
+    
     -Window Density Top Scaler: Instances below Topper by a specified factor distance.
+    
     -Window Density Bottom Scaler: Instances above bottom of pot (the cut out portion) by a specified factor distance.
+    
     -Window Global Scale: Global scale of windows across all axis.
+    
     -Window Tilt: Z axis tilt scaler of all windows.
+
     
   "Pot Topper" Collection > "Logs:"    
     -Log Count: Number of logs instanced in a ring.
