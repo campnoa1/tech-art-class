@@ -2,7 +2,9 @@
 Repository for homework.
 
 **DOCUMENTATION**
+
 This tool is used to generate a flower pot house based on concept art from this artist: https://www.artstation.com/artwork/ayoozR
+
 General usages are adjusting height and width of pot, adjusting plant sizes and numbers, adjusting windows in many ways.
 
 **More detailed list:**
@@ -52,6 +54,7 @@ General usages are adjusting height and width of pot, adjusting plant sizes and 
     -Randomize Rotation: Randomize the rotation of each instance by small margins.
 
 **Reflection**
+
 What went well? -     
 I managed to get pretty much everything I wanted to be working, working. That would mostly be all the trouble shooting I had to do with the windows.
 
