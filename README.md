@@ -18,10 +18,13 @@ General usages are adjusting height and width of pot, adjusting plant sizes and 
     -Window Density Bottom Scaler: Instances above bottom of pot (the cut out portion) by a specified factor distance.
     -Window Global Scale: Global scale of windows across all axis.
     -Window Tilt: Z axis tilt scaler of all windows.
+    
   "Pot Topper" Collection > "Logs:"
     -Log Count: Number of logs instanced in a ring.
+    
   "Pot Topper" Collection > "Pipe Rings:"
     -Ring Count: Number of rings instanced in a ring along the tube.
+    
   "Pot Topper" Collection > "Pot Topper Top:"
     -Overall Sphere Count: Adjusts radius of underlying sphere allowing for more plant sphere to display.
     -Overall Sphere Translation: Adjusts underlying sphere's location.
@@ -42,6 +45,7 @@ General usages are adjusting height and width of pot, adjusting plant sizes and 
     -Max Leaf Scale: Maximum scale of leaves instanced.
     -Leaf Global Rotation: Global rotation of all leaves around a pivot.
     -Leaf Global Scale: Global Scale of all leaves.
+    
   "Pot Topper" Collection > "Shingles Bottom" AND "Shingles Top:"
     -Seed: Changes seed of instances.
     -Tile Count: Number of instanced tiles.
